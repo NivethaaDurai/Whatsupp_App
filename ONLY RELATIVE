@@ -1,0 +1,14 @@
+  Relative X-path
+
+1) //input[@name='firstName']
+2) //input[@name='lastName']
+3) //input[@name='phone']
+4) //input[@name='email']
+5) //input[@name='address1']
+6) //input[@name='city']
+7) //input[@name='state']
+8) //input[@name='postalCode']
+9) //input[@name='email']
+10) //input[@name='password']
+11) //input[@name='confirmPassword']
+12) //input[@name='submit']
